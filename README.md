@@ -1,6 +1,5 @@
-# End-to-End-Medical-Chat-Bot-using-Llama-2
+# End-to-End-Medical-Chat-Bot-using-Llama2
 
-# End-to-end-Medical-Chatbot-using-Llama2
 
 # How to run?
 ### STEPS:
