@@ -7,7 +7,7 @@
 Clone the repository
 
 ```bash
-Project repo: https://github.com/
+git clone https://github.com/SuchindraKumar/End-to-End-Medical-Chat-Bot-using-Llama-2.git
 ```
 
 ### STEP 01- Create a conda environment after opening the repository
