@@ -1,5 +1,8 @@
 # End-to-End-Medical-Chat-Bot-using-Llama2
 
+![Screenshot 2024-02-07 143313](https://github.com/SuchindraKumar/End-to-End-Medical-Chat-Bot-using-Llama-2/assets/117302945/f3c272d5-921b-43b7-829b-b748a67cc7cf)
+
+
 
 # How to run?
 ### STEPS:
